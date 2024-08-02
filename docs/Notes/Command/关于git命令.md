@@ -27,6 +27,12 @@ git pull
 
 ## git命令
 
+##### 链接远程仓库
+
+```
+git remote add origin 
+```
+
 ##### 克隆现有远程仓库
 ```
 git clone ssh://存储库路径
