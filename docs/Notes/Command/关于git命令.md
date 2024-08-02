@@ -27,20 +27,30 @@ git pull
 
 ## git命令
 
-##### 链接远程仓库
 
+##### 创建一个新的本地仓库
 ```
-git remote add origin 
+git init   
+```
+
+##### 连接远程仓库
+```
+git remote add origin //仓库路径
+```
+
+##### 断开远程仓库
+```
+git remote remove origin
+``` 
+
+##### 查看当前连接的远程仓库
+```
+git remote -v
 ```
 
 ##### 克隆现有远程仓库
 ```
 git clone ssh://存储库路径
-```
-
-##### 创建一个新的本地仓库
-```
-git init   
 ```
 ##### 提交先前进行的更改
 ```
