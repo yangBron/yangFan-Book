@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "f3b6cd3a198d353f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e812d157ef3600d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed190653da0f0a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff56b7e1c3035c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f99dc11a002ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bce428ef4787730",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c98a37f670b3656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6ff339867e86c2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a73d697e77dfdeea",
+    "type": "split",
+    "children": [
+      {
+        "id": "61339767d6f10ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1023ea2788231b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac2032689950b18f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0005788a19e43832",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1571606d6847fd5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fed190653da0f0a4",
+  "lastOpenFiles": [
+    "docs/z-Book/index.md",
+    "docs/z-Book/B015-仙逆.md",
+    "docs/z-Book/B014-紫川.md",
+    "docs/z-Book/B013-诛仙.md",
+    "docs/z-Book/B012-绝世唐门（斗罗大陆2）.md",
+    "docs/z-Book/B011-斗破苍穹.md",
+    "docs/z-Book/B010-斗罗大陆.md",
+    "docs/z-Book/B009-我的26岁女房客.md",
+    "docs/z-Book/B008-吞噬星空.md",
+    "docs/z-Book/B007-苍元图.md",
+    "docs/z-Book/B006-selenium4自动化项目测试实战.md",
+    "docs/z-Book/B005-老子是癞蛤蟆.md",
+    "docs/z-Book/B003-学会提问.md",
+    "docs/z-Book/B004-陈二狗的妖孽人生.md",
+    "docs/z-Book/B002-庆余年.md",
+    "docs/z-Book/B001-雪中悍刀行.md",
+    "docs/z-Book",
+    "docs/l-Book/index.md",
+    "docs/l-Book/B015-仙逆.md",
+    "docs/l-Book/B014-紫川.md",
+    "docs/l-Book/B013-诛仙.md",
+    "docs/l-Book/B012-绝世唐门（斗罗大陆2）.md",
+    "docs/l-Book/B011-斗破苍穹.md",
+    "docs/l-Book/B010-斗罗大陆.md",
+    "docs/l-Book/B009-我的26岁女房客.md",
+    "docs/l-Book/B008-吞噬星空.md",
+    "docs/l-Book/B007-苍元图.md",
+    "docs/l-Book",
+    "docs/read-Book",
+    "docs/the-Book",
+    "docs/zBook"
+  ]
+}

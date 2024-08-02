@@ -26,8 +26,6 @@ git pull
 ##### 完成拉取最新代码
 
 ## git命令
-
-
 ##### 创建一个新的本地仓库
 ```
 git init   
@@ -52,26 +50,32 @@ git remote -v
 ```
 git clone ssh://存储库路径
 ```
+
 ##### 提交先前进行的更改
 ```
 git commit   
 ```
+
 ##### 显示所有提交，从最新的开始
 ```
 git log   
 ```
+
 ##### 显示特定文件随时间的变化
 ```
 git log -p   
 ```
+
 ##### 切换分支
 ```
 git checkout   
 ```
+
 ##### 回退指定commit_id
 ```
 git reset --hard commit_id   
 ```
+
 ##### 同步远程仓库最新提交信息和分支信息
 ```
 git fetch origin    

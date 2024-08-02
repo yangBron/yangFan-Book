@@ -1,6 +1,10 @@
 // 导航
 export default [
     {
+        text: 'Book',
+        link: 'z-Book/index'
+    },
+    {
         text: 'Notes',
         items: [
             { text: 'Allegro', 

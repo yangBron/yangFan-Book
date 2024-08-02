@@ -21,5 +21,8 @@ features:
   - title: Script
     link: ./Script/index
     details: Script index
+  - title: Book
+    link: ./z-Book/index
+    details: Book index
 ---
 

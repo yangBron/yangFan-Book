@@ -42,7 +42,7 @@
 	- Pitch是指pin to pin的中心距，但实际在算法中采用的是via to via的中心距
 - #### DUT和Site
 	- DUT：Device Under Test 简称 DUT，单指被测芯片
-	- Site：直译为“网站”指芯片和芯片相关的所有的集合
+	- Site：直译为“网站”，指芯片和芯片相关的所有的集合
 - #### OS板、ATE板、老化板
 	- os板：= = =
 	- ATE板：广义上的IC测试设备我们都称为**ATE（AutomaticTest Equipment）**，一般由大量的测试机能集合在一起，由电脑控制来测试半导体芯片的功能性，这里面包含了软件和硬件的结合。

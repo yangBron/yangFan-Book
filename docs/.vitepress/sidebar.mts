@@ -5,8 +5,8 @@ export default(
     generateSidebar(
         {
             documentRootPath: '/docs', //文档根目录
-            // scanStartPath: '/Allegro笔记',   
-            // resolvePath: '/脚本/',
+            // scanStartPath: '/Notes',   
+            // resolvePath: '/z-Book/',
             // useTitleFromFileHeading: true,
             // useTitleFromFrontmatter: true,
             // frontmatterTitleFieldName: 'title',
