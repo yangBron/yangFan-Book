@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 import sidebar from './sidebar.mts'
 import nav from './nav.mts'
 import markdown from './markdown.mts'
-// import { getNavData, getSidebarData } from './navSidebarUtil.mts'
 
 export default defineConfig({
   title: "Yangfan",
@@ -12,7 +11,8 @@ export default defineConfig({
 
   markdown: markdown,
 
-  head:[
+  head:
+  [
     [
         "link",
         { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" },
