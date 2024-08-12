@@ -11,8 +11,12 @@
             "id": "fed190653da0f0a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/index.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "fed190653da0f0a4",
   "lastOpenFiles": [
+    "docs/z-Book/B016-鸡汤.md",
+    "docs/z-Book/index.md",
+    "docs/z-Book/未命名.md",
     "node_modules/vue/server-renderer/index.d.ts",
     "node_modules/vue/jsx-runtime/index.js",
     "node_modules/vue/server-renderer/package.json",
@@ -150,9 +161,7 @@
     "node_modules/vue/jsx-runtime/package.json",
     "node_modules/vue/jsx-runtime/index.d.ts",
     "node_modules/vue/dist/vue.runtime.global.prod.js",
-    "node_modules/vue/dist/vue.runtime.esm-browser.prod.js",
     "node_modules/vue/README.md",
-    "docs/z-Book/index.md",
     "docs/z-Book/B015-仙逆.md",
     "docs/z-Book/B014-紫川.md",
     "docs/z-Book/B013-诛仙.md",
@@ -174,7 +183,6 @@
     "docs/l-Book/B013-诛仙.md",
     "docs/l-Book/B012-绝世唐门（斗罗大陆2）.md",
     "docs/l-Book/B011-斗破苍穹.md",
-    "docs/l-Book/B010-斗罗大陆.md",
-    "docs/l-Book/B009-我的26岁女房客.md"
+    "docs/l-Book/B010-斗罗大陆.md"
   ]
 }
