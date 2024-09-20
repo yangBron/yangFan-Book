@@ -1,1 +1,1 @@
-# work-notes
+# yf-obsidian

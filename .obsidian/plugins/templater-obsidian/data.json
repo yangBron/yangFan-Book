@@ -1,0 +1,52 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "8.模板",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "1.用例/1.PE用例库",
+      "template": "8.模板/1.PE.md"
+    },
+    {
+      "folder": "1.用例/2.Ballmap用例库",
+      "template": "8.模板/2.Ballmap.md"
+    },
+    {
+      "folder": "1.用例/3.channelmap用例库",
+      "template": "8.模板/3.channelmap.md"
+    },
+    {
+      "folder": "1.用例/4.小电容布局用例库",
+      "template": "8.模板/4.小电容布局.md"
+    },
+    {
+      "folder": "1.用例/5.布局助手用例库",
+      "template": "8.模板/5.布局助手.md"
+    },
+    {
+      "folder": "1.用例/7.CIS库",
+      "template": "8.模板/7.CIS库.md"
+    },
+    {
+      "folder": "1.用例/8.仓库",
+      "template": "8.模板/8.仓库.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": false
+}

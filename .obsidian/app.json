@@ -1,0 +1,18 @@
+{
+  "spellcheck": false,
+  "readableLineLength": false,
+  "defaultViewMode": "source",
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showInlineTitle": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "autoPairBrackets": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Z-链接文件",
+  "showLineNumber": true
+}

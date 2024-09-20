@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Z-读书笔记",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 286
+              },
+              "推荐指数": {
+                "width": 153
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "作者",
+              "时间",
+              "推荐指数"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "1f0f435d-96af-4608-a01e-5a2fda02605f",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "68b4641a-a505-4510-ae1c-a60c77f05be4",
+      "name": "Book"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 2000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "51a3916b-aa09-4c74-8598-a8d180cd7c9a"
+      },
+      {
+        "project": "30201471-9d62-4a91-a836-d1850c3c229a"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab",
+        "view": "b6fba2d1-548e-434c-bf32-5a656d46adce"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab",
+        "view": "028cd8cb-6a8b-412a-a734-fdd971b03263"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab",
+        "view": "637e2712-895e-4c92-af71-fb39053ef2e8"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab",
+        "view": "3a230215-72c5-4836-9b40-029a87171a5c"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab",
+        "view": "bfe201c7-09d8-4dec-92ba-2acddbc45983"
+      },
+      {
+        "project": "2be68771-3348-43bc-92ed-e4bd758ef2ab"
+      },
+      {
+        "project": "cdfc665a-c5e2-466a-a4f5-de74af60d229"
+      }
+    ],
+    "linkBehavior": "open-note"
+  }
+}

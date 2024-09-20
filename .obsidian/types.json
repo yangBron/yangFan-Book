@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "image": "date",
+    "due": "date",
+    "review": "checkbox",
+    "status": "text",
+    "Module": "checkbox",
+    "时间": "date",
+    "类型": "multitext"
+  }
+}
