@@ -6,7 +6,7 @@
     "image": "date",
     "due": "date",
     "review": "checkbox",
-    "status": "text",
+    "status": "checkbox",
     "Module": "checkbox",
     "时间": "date",
     "类型": "multitext"

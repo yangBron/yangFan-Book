@@ -1,66 +1,6 @@
 {
   "version": 2,
-  "projects": [
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": true,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "Z-读书笔记",
-          "recursive": true
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "fieldConfig": {
-              "path": {
-                "hide": true
-              },
-              "name": {
-                "width": 286
-              },
-              "推荐指数": {
-                "width": 153
-              }
-            },
-            "orderFields": [
-              "name",
-              "tags",
-              "作者",
-              "时间",
-              "推荐指数"
-            ]
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": [
-              {
-                "field": "name",
-                "order": "asc",
-                "enabled": true
-              }
-            ]
-          },
-          "id": "1f0f435d-96af-4608-a01e-5a2fda02605f",
-          "name": "表格",
-          "type": "table"
-        }
-      ],
-      "id": "68b4641a-a505-4510-ae1c-a60c77f05be4",
-      "name": "Book"
-    }
-  ],
+  "projects": [],
   "preferences": {
     "projectSizeLimit": 2000,
     "frontmatter": {

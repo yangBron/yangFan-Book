@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf64c76b4c2e1f8",
+        "id": "7f64925f763da6a8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c13dccf2f99589b",
+            "id": "c1b3e292adec657f",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "b9354f0a403d7647",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-读书笔记/B019-大奉打更人.md",
-                "mode": "source",
+                "file": "Z-读书笔记/B000-Summary.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -72,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 228.5
   },
   "right": {
     "id": "d97e2cf51f7e3d95",
@@ -99,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-读书笔记/B000-Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-读书笔记/B000-Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,11 +147,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-读书笔记/B000-Summary.md"
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -171,51 +167,51 @@
       "command-palette:打开命令面板": true,
       "graph:查看关系图谱": true,
       "publish:发布更改": true,
-      "open-vscode:VSCode": true,
+      "open-vscode:VSCode": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0c13dccf2f99589b",
+  "active": "c1b3e292adec657f",
   "lastOpenFiles": [
+    "Z-读书笔记/B003-学会提问.md",
+    "Z-读书笔记/B000-Summary.md",
+    "README.md",
     "Z-读书笔记/B019-大奉打更人.md",
+    "Z-读书笔记/B021-剑来.md",
+    "Z-读书笔记/B012-绝世唐门（斗罗大陆2）.md",
+    "Z-读书笔记/B007-沧元图.md",
+    "Z-读书笔记/B004-陈二狗的妖孽人生.md",
+    "Z-读书笔记/B001-雪中悍刀行.md",
     "Z-读书笔记/B020-我在精神病院学斩神.md",
+    "Z-读书笔记/B016-鸡汤.md",
+    "Z-链接文件/PyCharm 中文指南（Win版）v2.0.pdf",
+    "Z-读书笔记/B018-捡漏.md",
     "Z-读书笔记/B017-梦.md",
     "Z-读书笔记/B015-仙逆.md",
-    "README.md",
-    "PyCharm 中文指南（Win版）v2.0.pdf",
-    "Z-读书笔记/B016-鸡汤.md",
-    "Z-读书笔记/B018-捡漏.md",
-    "Z-读书笔记/B001-雪中悍刀行.md",
+    "Z-读书笔记/B014-紫川.md",
+    "Z-读书笔记/B013-诛仙.md",
+    "Z-读书笔记/B011-斗破苍穹.md",
+    "Z-读书笔记/B010-斗罗大陆.md",
+    "Z-读书笔记/B009-我的26岁女房客.md",
+    "Z-读书笔记/B008-吞噬星空.md",
     "Z-读书笔记/B006-selenium4自动化项目测试实战.md",
+    "Z-读书笔记/B005-老子是癞蛤蟆.md",
+    "Z-读书笔记/B002-庆余年.md",
+    "Z-读书笔记/未命名笔记.md",
+    "Z-链接文件/杨凡测试总结.pptx",
+    "Z-链接文件/杨凡-SPECHO-2023-EaS评价表.xlsx",
+    "Z-链接文件/工作记录.doc",
     "Z-读书笔记/My Heart.md",
     "O/未命名.canvas",
     "O",
-    "Z-读书笔记/B011-斗破苍穹.md",
-    "Z-读书笔记/B010-斗罗大陆.md",
-    "Z-读书笔记/B008-吞噬星空.md",
-    "Z-读书笔记/B007-苍元图.md",
-    "2024体检-阿特蒙.pdf",
-    "Z-读书笔记/B009-我的26岁女房客.md",
-    "Z-读书笔记/B014-紫川.md",
-    "Z-读书笔记/B013-诛仙.md",
-    "Z-读书笔记/B012-绝世唐门（斗罗大陆2）.md",
-    "Z-读书笔记/B004-陈二狗的妖孽人生.md",
-    "Z-读书笔记/B003-学会提问.md",
-    "Z-读书笔记/B005-老子是癞蛤蟆.md",
-    "Z-读书笔记/B002-庆余年.md",
+    "Z-链接文件/2024体检-阿特蒙.pdf",
     "Z-读书笔记/B000-概况总览.md",
-    "A-workspace/skill.md",
-    "A-workspace/shell&docker&git&vim-操作笔记.md",
-    "A-workspace/删除id为none的镜像.md",
     "A-workspace/ToolBox笔记",
     "A-workspace/Allegro操作笔记",
     "Projects - Demo Project",
     "Eas Case Varvel",
-    "1.PCB设计中心/1.用例/1.PE用例库/1.登录",
-    "1.PCB设计中心/1.用例/1.PE用例库/9.Bom",
-    "1.PCB设计中心/1.用例/1.PE用例库/8.分享文件",
     "Z-链接文件/Pasted image 20240531145455.png",
     "advanced-tables-obsidian-main/resources/screenshots/formulas-demo.gif",
     "advanced-tables-obsidian-main/resources/screenshots/evaluate-formulas-button.png",
