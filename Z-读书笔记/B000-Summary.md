@@ -1,5 +1,5 @@
 
-| number-Name                 | writer  | type       | data    | status    | recommend |
+| number name                 | writer  | type       | data    | status    | recommend |
 | :-------------------------- | :------ | :--------- | :------ | :-------- | --------- |
 | [[B001-雪中悍刀行]]              | 烽火戏诸侯   | 玄幻仙侠       | 2023.06 | read      | 9         |
 | [[B002-庆余年]]                | 猫腻      | 架空历史       | 2023.05 | read      | 7         |
