@@ -14,15 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-读书笔记/B000-Summary.md",
+                "file": "Z-读书笔记/B000-Overview.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d50d2ebcb43e661d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-读书笔记/B016-鸡汤.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-读书笔记/B000-Summary.md",
+                "file": "Z-读书笔记/B016-鸡汤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-读书笔记/B000-Summary.md",
+                "file": "Z-读书笔记/B016-鸡汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-读书笔记/B000-Summary.md"
+                "file": "Z-读书笔记/B016-鸡汤.md"
               }
             }
           }
@@ -173,57 +187,57 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b97006e71981af6e",
+  "active": "d50d2ebcb43e661d",
   "lastOpenFiles": [
-    "work-note/TestNotes/黑盒测试技术.md",
-    "work-note/TestNotes/软件测试基础.md",
-    "work-note/TestNotes",
-    "work-note/Python Gui/踩坑日记.md",
-    "work-note/Python Gui/自动化测试框架-Readme.md",
+    "Z-读书笔记/B018-捡漏.md",
+    "Z-读书笔记/B021-剑来.md",
+    "Z-读书笔记/B020-我在精神病院学斩神.md",
+    "Z-读书笔记/B019-大奉打更人.md",
+    "Z-读书笔记/B000-Overview.md",
+    "Z-读书笔记/B016-鸡汤.md",
+    "Z-读书笔记/B013-诛仙.md",
+    "Z-读书笔记/B004-陈二狗的妖孽人生.md",
     "work-note/Python Gui/自动化测试日志.md",
-    "work-note/Python Gui/实例化缓慢原因.md",
-    "work-note/Python Gui",
-    "work-note/PCB/PCB工具箱测试点.md",
+    "work-note/Python Gui/自动化测试框架-Readme.md",
+    "Z-读书笔记/B009-我的26岁女房客.md",
+    "Z-读书笔记/B002-庆余年.md",
+    "Z-读书笔记/B014-紫川.md",
+    "work-note/Python Gui/关于PE遍历文件index无法精确定位的问题.md",
+    "work-note/Skill.md",
+    "work-note/评论.md",
+    "work-note/关于git命令.md",
+    "Z-pubilc/Pasted image 20240604153718.png",
+    "Z-链接文件/~$工作记录.doc",
+    "Z-pubilc/Pasted image 20240531145455.png",
+    "Z-pubilc/Pasted image 20240528111832.png",
+    "Z-pubilc/Pasted image 20240329120045.png",
+    "Z-pubilc/Pasted image 20240205111845.png",
+    "Z-pubilc/Pasted image 20240205111710.png",
+    "Z-pubilc/Pasted image 20240205111526.png",
+    "Z-pubilc/Pasted image 20240117173313.png",
+    "Z-pubilc/Pasted image 20240117173221.png",
+    "Z-pubilc/Pasted image 20240117173203.png",
     "work-note/PCB/PCB字典.md",
-    "work-note/PCB",
+    "work-note/架构需求.canvas",
+    "work-note/Allegro/Command导入skill.md",
+    "work-note/Allegro/修改每层symbol的颜色.md",
     "work-note/Allegro/添加、删除层.md",
     "work-note/Allegro/取消symbols的fixed状态.md",
-    "work-note/Allegro/修改每层symbol的颜色.md",
-    "work-note/Allegro/Command导入skill.md",
-    "work-note/Allegro",
-    "work-note/评论.md",
-    "work-note/架构需求.canvas",
-    "work-note/接口请求数据获取.md",
-    "work-note/关于git命令.md",
-    "work-note/关于Docker命令.md",
-    "work-note/Skill.md",
+    "work-note/PCB/PCB工具箱测试点.md",
+    "work-note/TestNotes/软件测试基础.md",
+    "work-note/TestNotes/黑盒测试技术.md",
+    "work-note/Python Gui/实例化缓慢原因.md",
     "work-note/PCB设计中心树状图.canvas",
-    "work-note/p90，p95，p99计算方式.md",
-    "work-note/Eas-Rpc测试环境部署流程.md",
+    "Z-pubilc",
+    "work-note/TestNotes",
+    "work-note/Python Gui",
+    "work-note/PCB",
+    "work-note/Allegro",
     "work-note",
-    "Z-读书笔记/B003-学会提问.md",
-    "Z-读书笔记/B000-Summary.md",
-    "README.md",
-    "Z-读书笔记/B019-大奉打更人.md",
-    "Z-读书笔记/B021-剑来.md",
-    "Z-读书笔记/B012-绝世唐门（斗罗大陆2）.md",
-    "Z-读书笔记/B007-沧元图.md",
     "Z-链接文件/PyCharm 中文指南（Win版）v2.0.pdf",
     "Z-链接文件/杨凡测试总结.pptx",
     "Z-链接文件/杨凡-SPECHO-2023-EaS评价表.xlsx",
-    "Z-链接文件/工作记录.doc",
     "O/未命名.canvas",
-    "O",
-    "Z-链接文件/Pasted image 20240531145455.png",
-    "advanced-tables-obsidian-main/resources/screenshots/formulas-demo.gif",
-    "advanced-tables-obsidian-main/resources/screenshots/evaluate-formulas-button.png",
-    "advanced-tables-obsidian-main/resources/screenshots/basic-functionality.gif",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/spreadsheet.svg",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/spreadsheet-simplified.svg",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/sort-desc.svg",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/sort-asc.svg",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/move-row-up.svg",
-    "advanced-tables-obsidian-main/resources/line-widget-icons/move-row-down.svg",
     "A-work_space/未命名.canvas",
     "未命名.canvas"
   ]
