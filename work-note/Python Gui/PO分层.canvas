@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"c7b5e0aaab072891","x":-342,"y":-242,"width":250,"height":60,"type":"text","text":"对象层：page/element"},
+		{"id":"69fb6808ad6f5300","x":-342,"y":-100,"width":250,"height":60,"type":"text","text":"操作层: page/handle"},
+		{"id":"c39df836d00840c4","x":-342,"y":40,"width":250,"height":60,"type":"text","text":"业务层: testcase"},
+		{"id":"e7446d2f82055039","x":60,"y":-242,"width":250,"height":60,"type":"text","text":"xx_element"},
+		{"id":"ca63389ed77982d3","x":60,"y":-100,"width":250,"height":60,"type":"text","text":"xx_handle"},
+		{"id":"f820d2c11dd4ee02","x":60,"y":40,"width":250,"height":60,"type":"text","text":"test_xx"},
+		{"id":"1037bff352c10c3e","x":60,"y":-400,"width":250,"height":60,"type":"text","text":"AiAutomation"},
+		{"id":"0cf526e3ab8df527","x":540,"y":-400,"width":250,"height":60,"type":"text","text":"二次封装定位元素及相关操作方法"},
+		{"id":"c4f39651e2b5f291","x":540,"y":-242,"width":250,"height":60,"type":"text","text":"元素定位"},
+		{"id":"3dc0e5affc8bd3c2","x":540,"y":-100,"width":250,"height":60,"type":"text","text":"元素操作/控件封装"},
+		{"id":"231bf3b815ace325","x":540,"y":40,"width":250,"height":60,"type":"text","text":"用例步骤"},
+		{"id":"e8e128a1a223b356","x":60,"y":180,"width":250,"height":60,"type":"text","text":"dataBase"},
+		{"id":"92afc5a87406e19b","x":540,"y":180,"width":250,"height":60,"type":"text","text":"测试数据"}
+	],
+	"edges":[
+		{"id":"64e1f54915bb0614","fromNode":"e7446d2f82055039","fromSide":"top","toNode":"1037bff352c10c3e","toSide":"bottom","label":"继承"},
+		{"id":"7d8a5dd2b2134340","fromNode":"1037bff352c10c3e","fromSide":"right","toNode":"0cf526e3ab8df527","toSide":"left"},
+		{"id":"3de2042bfcd18ab8","fromNode":"ca63389ed77982d3","fromSide":"top","toNode":"e7446d2f82055039","toSide":"bottom","label":"继承"},
+		{"id":"99bfa1b67d394277","fromNode":"f820d2c11dd4ee02","fromSide":"top","toNode":"ca63389ed77982d3","toSide":"bottom","label":"继承"},
+		{"id":"d25482d87b69b234","fromNode":"c7b5e0aaab072891","fromSide":"right","toNode":"e7446d2f82055039","toSide":"left"},
+		{"id":"503dd6cb386a2b13","fromNode":"69fb6808ad6f5300","fromSide":"right","toNode":"ca63389ed77982d3","toSide":"left"},
+		{"id":"2279e4ccb8211ab1","fromNode":"c39df836d00840c4","fromSide":"right","toNode":"f820d2c11dd4ee02","toSide":"left"},
+		{"id":"b613b9b050ff4c68","fromNode":"e7446d2f82055039","fromSide":"right","toNode":"c4f39651e2b5f291","toSide":"left"},
+		{"id":"f2b72d6aa330b7cf","fromNode":"ca63389ed77982d3","fromSide":"right","toNode":"3dc0e5affc8bd3c2","toSide":"left"},
+		{"id":"242f6fd4eba04815","fromNode":"f820d2c11dd4ee02","fromSide":"right","toNode":"231bf3b815ace325","toSide":"left"},
+		{"id":"07f342cbc52a4db7","fromNode":"e8e128a1a223b356","fromSide":"top","toNode":"f820d2c11dd4ee02","toSide":"bottom"},
+		{"id":"658e2440451bc4ee","fromNode":"e8e128a1a223b356","fromSide":"right","toNode":"92afc5a87406e19b","toSide":"left"}
+	]
+}

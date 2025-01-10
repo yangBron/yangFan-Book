@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-读书笔记/B000-Overview.md",
+                "file": "Book/B000-Overview.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -25,14 +25,16 @@
           {
             "id": "d50d2ebcb43e661d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-读书笔记/B016-鸡汤.md",
-                "mode": "source",
+                "file": "Movie/M000-Overview.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-读书笔记/B016-鸡汤.md",
+                "file": "Movie/M000-Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-读书笔记/B016-鸡汤.md",
+                "file": "Movie/M000-Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-读书笔记/B016-鸡汤.md"
+                "file": "Movie/M000-Overview.md"
               }
             }
           }
@@ -189,23 +191,33 @@
   },
   "active": "d50d2ebcb43e661d",
   "lastOpenFiles": [
-    "Z-读书笔记/B018-捡漏.md",
-    "Z-读书笔记/B021-剑来.md",
-    "Z-读书笔记/B020-我在精神病院学斩神.md",
-    "Z-读书笔记/B019-大奉打更人.md",
-    "Z-读书笔记/B000-Overview.md",
-    "Z-读书笔记/B016-鸡汤.md",
-    "Z-读书笔记/B013-诛仙.md",
-    "Z-读书笔记/B004-陈二狗的妖孽人生.md",
-    "work-note/Python Gui/自动化测试日志.md",
-    "work-note/Python Gui/自动化测试框架-Readme.md",
-    "Z-读书笔记/B009-我的26岁女房客.md",
-    "Z-读书笔记/B002-庆余年.md",
-    "Z-读书笔记/B014-紫川.md",
-    "work-note/Python Gui/关于PE遍历文件index无法精确定位的问题.md",
-    "work-note/Skill.md",
-    "work-note/评论.md",
-    "work-note/关于git命令.md",
+    "Book/B000-Overview.md",
+    "Movie/M000-Overview.md",
+    "Book/B013-诛仙.md",
+    "Movie/M023-开国将帅授衔1955.md",
+    "Movie/M020-决战中途岛.md",
+    "Movie/M002-弱点.md",
+    "Movie/M021-珍珠港.md",
+    "Movie/M022-金手指.md",
+    "Movie/M024-潜行.md",
+    "Movie/M018-速度与激情1-10.md",
+    "Movie/M001-绿皮书.md",
+    "Movie/M017-胜券在握.md",
+    "Movie/M013-天才少女.md",
+    "Book/B014-紫川.md",
+    "Book/B021-剑来.md",
+    "README.md",
+    "work-note/p90，p95，p99计算方式.md",
+    "Book/B001-雪中悍刀行.md",
+    "Book/B016-鸡汤.md",
+    "Movie",
+    "Book/B009-我的26岁女房客.md",
+    "Book/B017-梦.md",
+    "Book/B020-我在精神病院学斩神.md",
+    "Book/B010-斗罗大陆.md",
+    "work-note/TestNotes/软件测试基础.md",
+    "work-note/TestNotes/黑盒测试技术.md",
+    "work-note/关于Docker命令.md",
     "Z-pubilc/Pasted image 20240604153718.png",
     "Z-链接文件/~$工作记录.doc",
     "Z-pubilc/Pasted image 20240531145455.png",
@@ -217,16 +229,7 @@
     "Z-pubilc/Pasted image 20240117173313.png",
     "Z-pubilc/Pasted image 20240117173221.png",
     "Z-pubilc/Pasted image 20240117173203.png",
-    "work-note/PCB/PCB字典.md",
     "work-note/架构需求.canvas",
-    "work-note/Allegro/Command导入skill.md",
-    "work-note/Allegro/修改每层symbol的颜色.md",
-    "work-note/Allegro/添加、删除层.md",
-    "work-note/Allegro/取消symbols的fixed状态.md",
-    "work-note/PCB/PCB工具箱测试点.md",
-    "work-note/TestNotes/软件测试基础.md",
-    "work-note/TestNotes/黑盒测试技术.md",
-    "work-note/Python Gui/实例化缓慢原因.md",
     "work-note/PCB设计中心树状图.canvas",
     "Z-pubilc",
     "work-note/TestNotes",
@@ -236,7 +239,6 @@
     "work-note",
     "Z-链接文件/PyCharm 中文指南（Win版）v2.0.pdf",
     "Z-链接文件/杨凡测试总结.pptx",
-    "Z-链接文件/杨凡-SPECHO-2023-EaS评价表.xlsx",
     "O/未命名.canvas",
     "A-work_space/未命名.canvas",
     "未命名.canvas"
